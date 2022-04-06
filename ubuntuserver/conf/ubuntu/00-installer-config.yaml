@@ -42,7 +42,7 @@ network:
         #
         # Configuração do Nome de Pesquisa DNS do Ubuntu Server
         search:
-        - ALTERAR_PARA_O_SEU_DOMINIO.intra
+        - samuel.intra
         #
   # Configuração da versão do Protocolo Ethernet do Ubuntu Server
   version: 2
